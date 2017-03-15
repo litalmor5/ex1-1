@@ -10,8 +10,8 @@
 - India
 - Russian far East
 - Thailand
-![alt tag](https://github.com/talon8080/ex1/edit/master/Images/Tiger.jpg)
-name | שם
+![Tiger Image](/Images/Tiger.jpg)
+Col A | Col B
 -------|--------
 tigris balica | טיגריס באלינזי
 tigris sondaica | טיגריס ג'אווה
