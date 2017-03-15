@@ -18,7 +18,7 @@
 ![Tiger Image](/Images/Tiger.jpg)
 
 
-col A | col B
+name | שם
 -------|--------
 tigris balica | טיגריס באלינזי
 tigris sondaica | טיגריס ג'אווה
